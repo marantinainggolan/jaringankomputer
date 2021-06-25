@@ -1,0 +1,14 @@
+\vspace{12pt}
+\item\textcolor{red}{to cite this page :} Dicoding. 2020. Apa itu Client Server? Pengertian dan Fungsinya. Diakses pada 12 April 2021, dari https://www.dicoding.com/blog/client-server-adalah/
+
+\textcolor{red}{to cite this page :} Salsabila, Putri Zakia. 2020. Kejahatan Siber di Indonesia Naik 4 Kali Lipat di Masa Pandemi. Diakses pada diakses pada 25 May 2021, dari https://tekno.kompas.com/read/2020/10/12/07020007/kejahatan-siber-di-indonesia-naik-4-kali-lipat-selama-pandemi
+
+\textcolor{red}{to cite this page :} STIS. 2019. METODE RANDOM FOREST. Diakses pada 24 May 2021, dari http://forkas.stis.ac.id/2019/04/metode-random-forest.html
+
+\textcolor{red}{to cite this page :} INFORMATIKALOGI. 2017. Algoritma K-Nearest Neighbor (K-NN). Diakses pada 24 May 2021, dari https://informatikalogi.com/algoritma-k-nn-k-nearest-neighbor/
+
+\textcolor{red}{to cite this page :} Samsudiney. 2019. Penjelasan Sederhana tentang Apa Itu SVM?. Diakses pada 24 May 2021, dari https://medium.com/@samsudiney/penjelasan-sederhana-tentang-apa-itu-svm-149fec72bd02
+
+\textcolor{red}{to cite this page :} Jejaring. 2019. Pengertian dan Jenis Intrusion detection System (IDS). Diakses pada 24 May 2021, dari https://www.jejaring.web.id/pengertian-dan-jenis-intrusion-detection-system-ids/
+
+\textcolor{red}{to cite this page :} Soewito, Benfano. 2019. Keamaan Komputer. Diakses pada 24 May 2021 ,dari https://mti.binus.ac.id/2019/02/15/keamanan-komputer/
