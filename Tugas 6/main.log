@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.16)  29 JUN 2021 13:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.16)  7 JUL 2021 15:24
 entering extended mode
 **"c:/Users/useur/OneDrive/Documents/praktek/Tugas 6/main.tex"
 (c:/Users/useur/OneDrive/Documents/praktek/Tugas 6/main.tex
@@ -121,7 +121,8 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count197
 \l__pdf_internal_box=\box52
-) (main.aux)
+)
+No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -138,7 +139,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
-
 -- Lines per column: 56 (exact).
 (C:\Users\useur\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -163,118 +163,22 @@ Underfull \hbox (badness 1371) in paragraph at lines 24--26
 \OT1/ptm/b/n/9 jaringan tanpa ka-bel yang meng-gu-nakan frekuensi tinggi.
  []
 
-<./picture//Gambar1.png, id=1, 167.12437pt x 348.55219pt>
-File: ./picture//Gambar1.png Graphic file (type png)
-<use ./picture//Gambar1.png>
-Package pdftex.def Info: ./picture//Gambar1.png  used on input line 72.
-(pdftex.def)             Requested size: 103.19843pt x 215.2332pt.
-<./picture//2.png, id=3, 1027.58907pt x 577.40718pt>
-File: ./picture//2.png Graphic file (type png)
-<use ./picture//2.png>
-Package pdftex.def Info: ./picture//2.png  used on input line 81.
-(pdftex.def)             Requested size: 206.39685pt x 115.97278pt.
-<./picture//3.png, id=4, 970.3753pt x 91.09032pt>
-File: ./picture//3.png Graphic file (type png)
-<use ./picture//3.png>
-Package pdftex.def Info: ./picture//3.png  used on input line 94.
-(pdftex.def)             Requested size: 206.39685pt x 19.37415pt.
-[1{C:/Users/useur/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+c:/Users/useur/OneDrive/Documents/praktek/Tugas 6/main.tex:72: I can't write on file `main.pdf'.
+Please type another file name for output
+c:/Users/useur/OneDrive/Documents/praktek/Tugas 6/main.tex:72: Emergency stop.
+<argument> \pdfximage 
+                      \ifnum 0\ifx \Gin@decode \@empty \else 1\fi \ifGin@int...
+l.72 ...graphics[width=0.2\textwidth]{Gambar1.png}
+                                                  
+*** (job aborted, file error in nonstop mode)
 
-
- <./picture//Gambar1.png> <./picture//2.png>]
-<./picture//4.png, id=15, 317.68687pt x 438.8897pt>
-File: ./picture//4.png Graphic file (type png)
-<use ./picture//4.png>
-Package pdftex.def Info: ./picture//4.png  used on input line 107.
-(pdftex.def)             Requested size: 154.80157pt x 213.86578pt.
-<./picture//5.png, id=16, 162.6075pt x 437.38406pt>
-File: ./picture//5.png Graphic file (type png)
-<use ./picture//5.png>
-Package pdftex.def Info: ./picture//5.png  used on input line 119.
-(pdftex.def)             Requested size: 51.60315pt x 138.7978pt.
-<./picture//6.png, id=17, 386.19281pt x 61.73062pt>
-File: ./picture//6.png Graphic file (type png)
-<use ./picture//6.png>
-Package pdftex.def Info: ./picture//6.png  used on input line 128.
-(pdftex.def)             Requested size: 154.80157pt x 24.7436pt.
-<./picture//7.png, id=18, 523.20468pt x 298.11375pt>
-File: ./picture//7.png Graphic file (type png)
-<use ./picture//7.png>
-Package pdftex.def Info: ./picture//7.png  used on input line 145.
-(pdftex.def)             Requested size: 258.0pt x 147.00497pt.
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 145--146
- [][] 
- []
-
-<./picture//8.png, id=19, 1026.83624pt x 544.28343pt>
-File: ./picture//8.png Graphic file (type png)
-<use ./picture//8.png>
-Package pdftex.def Info: ./picture//8.png  used on input line 162.
-(pdftex.def)             Requested size: 206.39685pt x 109.4029pt.
-<./picture//9.png, id=20, 980.16188pt x 517.935pt>
-File: ./picture//9.png Graphic file (type png)
-<use ./picture//9.png>
-Package pdftex.def Info: ./picture//9.png  used on input line 168.
-(pdftex.def)             Requested size: 206.39685pt x 109.06197pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[2 <./picture//3.png> <./picture//4.png> <./picture//5.png> <./picture//6.png> <./picture//7.png> <./picture//8.png>]
-<./picture//10.png, id=30, 980.16188pt x 510.40688pt>
-File: ./picture//10.png Graphic file (type png)
-<use ./picture//10.png>
-Package pdftex.def Info: ./picture//10.png  used on input line 181.
-(pdftex.def)             Requested size: 206.39685pt x 107.47676pt.
-<./picture//11.png, id=31, 1023.825pt x 534.49687pt>
-File: ./picture//11.png Graphic file (type png)
-<use ./picture//11.png>
-Package pdftex.def Info: ./picture//11.png  used on input line 187.
-(pdftex.def)             Requested size: 206.39685pt x 107.74567pt.
-<./picture//12.png, id=32, 982.42032pt x 517.935pt>
-File: ./picture//12.png Graphic file (type png)
-<use ./picture//12.png>
-Package pdftex.def Info: ./picture//12.png  used on input line 200.
-(pdftex.def)             Requested size: 206.39685pt x 108.80907pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./picture//13.png, id=33, 1027.58907pt x 534.49687pt>
-File: ./picture//13.png Graphic file (type png)
-<use ./picture//13.png>
-Package pdftex.def Info: ./picture//13.png  used on input line 206.
-(pdftex.def)             Requested size: 206.39685pt x 107.3542pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[3 <./picture//9.png> <./picture//10.png> <./picture//11.png> <./picture//12.png> <./picture//13.png>]
-
-** Conference Paper **
-Before submitting the final camera ready copy, remember to:
-
- 1. Manually equalize the lengths of two columns on the last page
- of your paper;
-
- 2. Ensure that any PostScript and/or PDF output post-processing
- uses only Type 1 fonts and that every step in the generation
- process uses the appropriate paper size.
-
-[4
-
-] (main.aux) ) 
+ 
 Here is how much of TeX's memory you used:
- 2130 strings out of 478864
- 37900 string characters out of 2848660
- 343181 words of memory out of 3000000
- 20072 multiletter control sequences out of 15000+600000
- 432797 words of font info for 75 fonts, out of 8000000 for 9000
+ 2012 strings out of 478864
+ 35707 string characters out of 2848660
+ 339178 words of memory out of 3000000
+ 19980 multiletter control sequences out of 15000+600000
+ 425146 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,8n,66p,579b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/useur/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/useur/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/useur/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/useur/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/useur/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (4 pages, 472734 bytes).
-PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 57i,8n,66p,524b,255s stack positions out of 5000i,500n,10000p,200000b,80000s
+c:/Users/useur/OneDrive/Documents/praktek/Tugas 6/main.tex:72:  ==> Fatal error occurred, no output PDF file produced!
